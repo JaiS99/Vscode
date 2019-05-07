@@ -22,7 +22,8 @@ int logic(int a,int b, int c)
     {
     return c;
     }
-
+43 lines (37 sloc)  482 Bytes
+  
 }
 void output(int d)
 {
